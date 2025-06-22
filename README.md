@@ -1,9 +1,13 @@
 ## 🌟 Starbucks Reviews Sentiment Analysis
 
 📊 **Project Title:** Starbucks Customer Reviews Sentiment Analysis
+
 🧠 **Internship:** Brainwave Matrix Solutions – Task 2
+
 📁 **Domain:** Data Science / Data Analytics
+
 🔬 **Focus:** Natural Language Processing (NLP) & Sentiment Analysis
+
 
 ---
 
